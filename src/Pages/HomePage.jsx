@@ -249,8 +249,8 @@ export const HomePage = () => {
         <Heading display={{base:"none",sm:"none",md:"block",lg:"block","xl":"block","2xl":"block"}} size={"lg"} fontWeight={"600"}>ANANTA</Heading>
         <Text display={{base:"none",sm:"none",md:"block",lg:"block","xl":"block","2xl":"block"}}> </Text>
         <Box mt="20px" display={{base:"none",sm:"none",md:"block",lg:"block","xl":"block","2xl":"block"}}>
-          <Text>Ananta is a brand that embodies the essence of timeless Indian luxury jewellery with a strong commitment to sustainability and eco-conscious practices.
-
+          <Text>
+          Ananta's jewelry is a result of meticulous artistry, where every piece is handcrafted by skilled artisans who are dedicated to achieving perfection. Clients have the opportunity to collaborate closely with Ananta's designers to create bespoke jewelry, a testament to the brand's dedication to personalization. Ananta proudly revives and celebrates India's rich jewelry-making heritage, preserving traditional techniques while adding a contemporary twist. The brand specializes in sourcing rare and exquisite gemstones, showcasing their natural beauty through expert craftsmanship and empowers artisans that identify our brand's heart.
 </Text>
         </Box>
 
