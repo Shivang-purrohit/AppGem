@@ -159,7 +159,7 @@
                 
               </Stack>
               <Text mt="10px" fontSize={'sm'}>
-                © 2023 Gem Garden All rights reserved
+                © 2023 Ananta All rights reserved
               </Text>
             </Stack>
             
