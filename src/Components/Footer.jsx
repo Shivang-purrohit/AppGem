@@ -128,7 +128,7 @@
               <Link href={'#'}>Bracelets</Link>
               <Link href={'#'}>Earring</Link>
               <Link href={'#'}>Necklaces</Link>
-              <Link href={'#'}>Watches</Link>
+              
             </Stack>
             <Stack color={"#a0a0a0"} align={'flex-start'}>
               <ListHeader>Discover the Latest Collections, News <br/> And Exclusive Launches</ListHeader>
